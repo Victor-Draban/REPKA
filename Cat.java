@@ -1,5 +1,5 @@
 package repka;
-// TODO
+
 public class Cat implements RepkaPoll{
     private final int POWER = 3;
     private static volatile Cat instance;
